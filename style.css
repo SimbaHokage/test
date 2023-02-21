@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    width: 50px;
     font-family: 'Ubuntu', sans-serif;
     background-color: linear-gradient(to top, #e6e9f0, #eef1f5);
 }
